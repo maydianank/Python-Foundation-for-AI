@@ -1,1 +1,1 @@
-# Python-Fondation-for-AI
+# Python-Foundation-for-AI
